@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Hasta la proxima.ogg-cb6f2583782d77fcdf1aec9401b4e2ad.oggstr"
+
+[deps]
+
+source_file="res://audios/ogg/Hasta la proxima.ogg"
+dest_files=[ "res://.import/Hasta la proxima.ogg-cb6f2583782d77fcdf1aec9401b4e2ad.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Yamete Kudasai Sound Effect (Original).ogg-67bc7d5b92c46bc49a740f235c7482e6.oggstr"
+
+[deps]
+
+source_file="res://audios/ogg/Yamete Kudasai Sound Effect (Original).ogg"
+dest_files=[ "res://.import/Yamete Kudasai Sound Effect (Original).ogg-67bc7d5b92c46bc49a740f235c7482e6.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

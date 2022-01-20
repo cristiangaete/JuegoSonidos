@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/YA ES MARTES a.ogg-1064a36dc24e32ff4c5d95d2adef07e8.oggstr"
+
+[deps]
+
+source_file="res://audios/ogg/YA ES MARTES a.ogg"
+dest_files=[ "res://.import/YA ES MARTES a.ogg-1064a36dc24e32ff4c5d95d2adef07e8.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

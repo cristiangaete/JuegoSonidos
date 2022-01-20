@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Nosvimos.ogg-9aa3f1b86a1cfe8b7ffaf2578ccc5c3d.oggstr"
+
+[deps]
+
+source_file="res://audios/ogg/Nosvimos.ogg"
+dest_files=[ "res://.import/Nosvimos.ogg-9aa3f1b86a1cfe8b7ffaf2578ccc5c3d.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/aweonao.ogg-3b078def4bebda69e2f0baf738a66ac9.oggstr"
+
+[deps]
+
+source_file="res://audios/ogg/aweonao.ogg"
+dest_files=[ "res://.import/aweonao.ogg-3b078def4bebda69e2f0baf738a66ac9.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

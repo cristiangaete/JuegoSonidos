@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/weyno.ogg-7166327b5e6088df58d8e74cb3933774.oggstr"
+
+[deps]
+
+source_file="res://audios/ogg/weyno.ogg"
+dest_files=[ "res://.import/weyno.ogg-7166327b5e6088df58d8e74cb3933774.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0
